@@ -1,3 +1,5 @@
 Git is a version control system.
 Git is free software.
 弃我去者，昨日之日不可留；
+春江潮水连海平，海上明月共潮生；
+艳艳随波千万里，何处春江无月明；
